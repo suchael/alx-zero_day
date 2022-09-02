@@ -1,1 +1,1 @@
-Beginning
+Beginning of file
